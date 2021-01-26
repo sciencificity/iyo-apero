@@ -1,19 +1,13 @@
 social:
-- icon: facebook-square
-  icon_pack: fab
-  link: https://twitter.com/apreshill
-- icon: instagram
-  icon_pack: fab
-  link: https://twitter.com/apreshill
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/apreshill
+  link: https://twitter.com/sciencificity
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill
+  link: https://github.com/sciencificity
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alisonpresmaneshill/
+  link: https://www.linkedin.com/in/vebashini-naidoo-4260a96a/
 - icon: rss
   icon_pack: fas
   link: /blog/index.xml

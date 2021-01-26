@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  A blog template for Hugo developed by RStudio & Formspree and available for free.
+  "Hello! :wave:. I use R for many work and fun tasks."
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.

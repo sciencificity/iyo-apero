@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sciencificity-blogdown.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
@@ -50,13 +50,13 @@ enableEmoji = true
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Calisto" #"Commissioner"
+  customheadingFontFamily = "Avenir" #"Fraunces"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = "violet"
   
   # or, leave theme empty & make your own palette
   # basic color options: use only color names as shown in the
