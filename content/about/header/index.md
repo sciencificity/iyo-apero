@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hello :wave:, my name is Vebash Naidoo. Nice to meet you.
+  Hello :smile:, my name is Vebash Naidoo. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
